@@ -29,6 +29,11 @@ Mijn doel is om stap voor stap een betere programmeur te worden. Ik werk alle ho
 - Fitness Tracker
 - (Wordt steeds verder uitgebreid)
 
+## Nieuwste projecten
+
+- Filmavond Planner
+
+
 ## Waarom deze repository?
 
 Ik gebruik deze repository om mijn voortgang bij te houden en om later terug te kunnen zien hoeveel ik heb geleerd.
