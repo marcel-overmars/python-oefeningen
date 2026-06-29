@@ -1,3 +1,30 @@
+# ============================================================
+# PROJECT: Streaming Abonnement
+#
+# In dit oefenproject bereken ik de kosten van een streamingdienst
+# voor één jaar. De eerste vier maanden krijgen korting en daarna
+# wordt het totaalbedrag voor het jaar berekend.
+#
+# In dit project oefen ik met:
+# - Variabelen
+# - Lists gebruiken voor de maanden
+# - Items uit een list ophalen met indexen
+# - String-methodes zoals .title()
+# - Rekenen met floats
+# - Vermenigvuldigen en aftrekken
+# - Berekeningen opslaan in nieuwe variabelen
+# - F-strings gebruiken
+# - print() gebruiken voor nette uitvoer
+# - \t gebruiken om tekst uit te lijnen
+# - Het programma indelen met duidelijke kopjes en commentaar
+#
+# Doel:
+# Een overzichtelijk programma maken dat laat zien wat een
+# jaarabonnement kost, hoeveel korting er wordt gegeven en wat
+# het eindbedrag is.
+# ============================================================
+
+
 # Actuele prijs streamingsdienst!
 
 print("=-=-=-=-=-=-=-=")
