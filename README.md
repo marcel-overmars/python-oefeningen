@@ -27,14 +27,15 @@ Mijn doel is om stap voor stap een betere programmeur te worden. Ik werk alle ho
 - Karakterkaart
 - Game Winkel Bon
 - Fitness Tracker
+- Filmavond Planner
+- Streaming abonnement
+- Boodschappenlijst
 - (Wordt steeds verder uitgebreid)
 
 ## Nieuwste projecten
 
-- Filmavond Planner
-- Streaming abonnement
-- Boodschappenlijst
 - Vakantieplanner
+- Bibliotheekbeheer
 
 
 ## Waarom deze repository?
