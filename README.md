@@ -36,6 +36,7 @@ Mijn doel is om stap voor stap een betere programmeur te worden. Ik werk alle ho
 
 - Vakantieplanner
 - Bibliotheekbeheer
+- dvd verhuur
 
 
 ## Waarom deze repository?
