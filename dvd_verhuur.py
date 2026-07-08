@@ -42,7 +42,7 @@ print()
 dvd_films = []
 
 dvd_films.append('2012')
-dvd_films.append('armmagedon')
+dvd_films.append('armageddon')
 dvd_films.append('frozen')
 dvd_films.append('the avengers')
 dvd_films.append('the lion king')
