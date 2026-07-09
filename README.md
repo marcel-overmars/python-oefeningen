@@ -30,8 +30,8 @@ Mijn doel is om stap voor stap een betere programmeur te worden. Ik werk alle ho
 - Filmavond Planner
 - Streaming abonnement
 - Boodschappenlijst
-- (Wordt steeds verder uitgebreid)
 - Vakantieplanner
+- (Wordt steeds verder uitgebreid)
 
 ## Nieuwste projecten
 
