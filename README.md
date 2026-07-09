@@ -31,13 +31,13 @@ Mijn doel is om stap voor stap een betere programmeur te worden. Ik werk alle ho
 - Streaming abonnement
 - Boodschappenlijst
 - (Wordt steeds verder uitgebreid)
+- Vakantieplanner
 
 ## Nieuwste projecten
 
-- Vakantieplanner
 - Bibliotheekbeheer
 - dvd verhuur
-
+- Muziekbibliotheek
 
 ## Waarom deze repository?
 
