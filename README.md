@@ -32,13 +32,14 @@ Mijn doel is om stap voor stap een betere programmeur te worden. Ik werk alle ho
 - Boodschappenlijst
 - Vakantieplanner
 - Bibliotheekbeheer
+- DVD verhuur
 - (Wordt steeds verder uitgebreid)
 
 ## Nieuwste projecten
 
-- dvd verhuur
 - Muziekbibliotheek
 - Festivalplanner
+- Restaurant reservering
 
 ## Waarom deze repository?
 
