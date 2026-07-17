@@ -1,3 +1,48 @@
+​# ============================================================
+# PROJECT: DIERENTUIN BEHEER
+# ============================================================
+#
+# In dit oefenproject maak ik een eenvoudig programma voor het
+# beheren van een dierentuin. Tijdens het programma worden
+# dieren toegevoegd, gewijzigd en verwijderd. Daarnaast wordt
+# bijgehouden hoeveel dieren aanwezig zijn, worden de dieren
+# gevoerd en gecontroleerd met behulp van een for-loop en wordt
+# de verwachte omzet van de dierentuin berekend.
+#
+# In dit project oefen ik met:
+# - Lists maken en gebruiken
+# - Een lege list vullen met append()
+# - Elementen wijzigen met een index
+# - Nieuwe elementen invoegen met insert()
+# - Elementen verwijderen met del
+# - Elementen verwijderen en bewaren met pop()
+# - Elementen verwijderen op naam met remove()
+# - Het aantal elementen bepalen met len()
+# - Gegevens ophalen met positieve en negatieve indexen
+# - Tijdelijk sorteren met sorted()
+# - Permanent sorteren met sort()
+# - Permanent sorteren in omgekeerde volgorde met reverse=True
+# - String-methodes zoals .upper() en .title()
+# - Variabelen
+# - Constanten
+# - Integers en floats
+# - Berekeningen uitvoeren
+# - F-strings gebruiken
+# - Getallen leesbaar maken met underscores
+# - Geldbedragen weergeven met twee decimalen (:.2f)
+# - Herhalende taken uitvoeren met een for-loop
+# - print(), \n en \t gebruiken voor een overzichtelijke uitvoer
+# - Mijn programma indelen met duidelijke commentaren en kopjes
+#
+# Doel:
+# Leren hoe verschillende bewerkingen op lijsten gecombineerd
+# kunnen worden binnen één groter programma. Daarnaast oefen ik
+# voor het eerst met for-loops om automatisch dezelfde opdracht
+# uit te voeren voor ieder item in een lijst. Ook oefen ik met
+# het berekenen en overzichtelijk presenteren van gegevens.
+# ============================================================
+
+
 print("=========================")
 print("=== DIERENTUIN BEHEER ===")
 print("=========================")
