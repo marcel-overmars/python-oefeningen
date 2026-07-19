@@ -34,13 +34,14 @@ Mijn doel is om stap voor stap een betere programmeur te worden. Ik werk alle ho
 - Bibliotheekbeheer
 - DVD verhuur
 - Muziekbibliotheek
+- Festivalplanner
 - (Wordt steeds verder uitgebreid)
 
 ## Nieuwste projecten
 
-- Festivalplanner
 - Restaurant reservering
 - Dierentuin beheer
+- Hondenfoto wedstrijd
 
 ## Waarom deze repository?
 
