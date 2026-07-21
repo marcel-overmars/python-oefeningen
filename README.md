@@ -35,13 +35,14 @@ Mijn doel is om stap voor stap een betere programmeur te worden. Ik werk alle ho
 - DVD verhuur
 - Muziekbibliotheek
 - Festivalplanner
+- Restaurant reservering
 - (Wordt steeds verder uitgebreid)
 
 ## Nieuwste projecten
 
-- Restaurant reservering
 - Dierentuin beheer
 - Hondenfoto wedstrijd
+- Pretpark beheer
 
 ## Waarom deze repository?
 
