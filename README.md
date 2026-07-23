@@ -37,6 +37,7 @@ Mijn doel is om stap voor stap een betere programmeur te worden. Ik werk alle ho
 - Festivalplanner
 - Restaurant reservering
 - Dierentuin beheer
+- Hondenfoto wedstrijd
 - (Wordt steeds verder uitgebreid)
 
 ## Nieuwste projecten
@@ -44,6 +45,7 @@ Mijn doel is om stap voor stap een betere programmeur te worden. Ik werk alle ho
 - Hondenfoto wedstrijd
 - Pretpark beheer
 - Dierenopvang beheer
+- Sportschool challenge
 
 ## Waarom deze repository?
 
