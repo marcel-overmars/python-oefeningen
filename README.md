@@ -38,14 +38,14 @@ Mijn doel is om stap voor stap een betere programmeur te worden. Ik werk alle ho
 - Restaurant reservering
 - Dierentuin beheer
 - Hondenfoto wedstrijd
+- Pretpark beheer
 - (Wordt steeds verder uitgebreid)
 
 ## Nieuwste projecten
 
-- Hondenfoto wedstrijd
-- Pretpark beheer
 - Dierenopvang beheer
 - Sportschool challenge
+- Arcade highscore challenge
 
 ## Waarom deze repository?
 
