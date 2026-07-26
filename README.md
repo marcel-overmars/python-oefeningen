@@ -40,13 +40,14 @@ Mijn doel is om stap voor stap een betere programmeur te worden. Ik werk alle ho
 - Hondenfoto wedstrijd
 - Pretpark beheer
 - Dierenopvang beheer
+- Sportschool challenge
 - (Wordt steeds verder uitgebreid)
 
 ## Nieuwste projecten
 
-- Sportschool challenge
 - Arcade highscore challenge
 - Speelhal omzetbeheer
+- Bibliotheekbeheer 2
 
 ## Waarom deze repository?
 
