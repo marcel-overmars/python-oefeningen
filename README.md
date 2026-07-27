@@ -42,13 +42,14 @@ Mijn doel is om stap voor stap een betere programmeur te worden. Ik werk alle ho
 - Dierenopvang beheer
 - Sportschool challenge
 - Arcade highscore challenge
+- Speelhal omzetbeheer
 - (Wordt steeds verder uitgebreid)
 
 ## Nieuwste projecten
 
-- Speelhal omzetbeheer
 - Bibliotheekbeheer 2
 - Dierentuinbeheer 2
+- Game inventaris beheer
 
 ## Waarom deze repository?
 
