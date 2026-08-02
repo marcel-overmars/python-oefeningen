@@ -46,13 +46,14 @@ Mijn doel is om stap voor stap een betere programmeur te worden. Ik werk alle ho
 - Bibliotheekbeheer 2
 - Dierentuinbeheer 2
 - Game inventaris beheer
+- Pretpark dagdashboard
 - (Wordt steeds verder uitgebreid)
 
 ## Nieuwste projecten
 
-- Pretpark dagdashboard
 - Bioscoop zaalbeheer
 - Game winkel beheer
+- Ruimtestation noodcontrole
 
 ## Waarom deze repository?
 
