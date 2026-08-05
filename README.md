@@ -48,13 +48,14 @@ Mijn doel is om stap voor stap een betere programmeur te worden. Ik werk alle ho
 - Game inventaris beheer
 - Pretpark dagdashboard
 - Bioscoop zaalbeheer
+- Game winkel beheer
 - (Wordt steeds verder uitgebreid)
 
 ## Nieuwste projecten
 
-- Game winkel beheer
 - Ruimtestation noodcontrole
 - Festival controle
+- Luchthaven veiligheidscontrole
 
 ## Waarom deze repository?
 
