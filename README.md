@@ -50,13 +50,14 @@ Mijn doel is om stap voor stap een betere programmeur te worden. Ik werk alle ho
 - Bioscoop zaalbeheer
 - Game winkel beheer
 - Ruimtestation noodcontrole
+- Festival controle
 - (Wordt steeds verder uitgebreid)
 
 ## Nieuwste projecten
 
-- Festival controle
 - Luchthaven veiligheidscontrole
 - Bergreddingscentrum dagcontrole
+- Middeleeuws koninkrijk beheer
 
 ## Waarom deze repository?
 
