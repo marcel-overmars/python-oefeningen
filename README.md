@@ -51,13 +51,14 @@ Mijn doel is om stap voor stap een betere programmeur te worden. Ik werk alle ho
 - Game winkel beheer
 - Ruimtestation noodcontrole
 - Festival controle
+- Luchthaven veiligheidscontrole
 - (Wordt steeds verder uitgebreid)
 
 ## Nieuwste projecten
 
-- Luchthaven veiligheidscontrole
 - Bergreddingscentrum dagcontrole
 - Middeleeuws koninkrijk beheer
+- Fitnesscentrum ledencontrole
 
 ## Waarom deze repository?
 
