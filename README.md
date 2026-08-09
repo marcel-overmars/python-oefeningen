@@ -52,13 +52,14 @@ Mijn doel is om stap voor stap een betere programmeur te worden. Ik werk alle ho
 - Ruimtestation noodcontrole
 - Festival controle
 - Luchthaven veiligheidscontrole
+- Bergreddingscentrum dagcontrole
 - (Wordt steeds verder uitgebreid)
 
 ## Nieuwste projecten
 
-- Bergreddingscentrum dagcontrole
 - Middeleeuws koninkrijk beheer
 - Fitnesscentrum ledencontrole
+- Pretpark veiligheidsinspectie
 
 ## Waarom deze repository?
 
