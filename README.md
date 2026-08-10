@@ -53,13 +53,14 @@ Mijn doel is om stap voor stap een betere programmeur te worden. Ik werk alle ho
 - Festival controle
 - Luchthaven veiligheidscontrole
 - Bergreddingscentrum dagcontrole
+- Middeleeuws koninkrijk beheer
 - (Wordt steeds verder uitgebreid)
 
 ## Nieuwste projecten
 
-- Middeleeuws koninkrijk beheer
 - Fitnesscentrum ledencontrole
 - Pretpark veiligheidsinspectie
+- Festival toegangs en voorraadcontrole
 
 ## Waarom deze repository?
 
