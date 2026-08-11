@@ -62,6 +62,7 @@ Mijn doel is om stap voor stap een betere programmeur te worden. Ik werk alle ho
 - Pretpark veiligheidsinspectie
 - Festival toegangs en voorraadcontrole
 - Avonturiersprofiel
+- Herbergregistratie
 
 ## Waarom deze repository?
 
