@@ -54,13 +54,14 @@ Mijn doel is om stap voor stap een betere programmeur te worden. Ik werk alle ho
 - Luchthaven veiligheidscontrole
 - Bergreddingscentrum dagcontrole
 - Middeleeuws koninkrijk beheer
+- Fitnesscentrum ledencontrole
 - (Wordt steeds verder uitgebreid)
 
 ## Nieuwste projecten
 
-- Fitnesscentrum ledencontrole
 - Pretpark veiligheidsinspectie
 - Festival toegangs en voorraadcontrole
+- Avonturiersprofiel
 
 ## Waarom deze repository?
 
