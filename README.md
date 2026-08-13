@@ -58,14 +58,15 @@ Mijn doel is om stap voor stap een betere programmeur te worden. Ik werk alle ho
 - Pretpark veiligheidsinspectie
 - Festival toegangs en voorraadcontrole
 - Avonturiersprofiel
+- Herbergregistratie
+- Ruimtemissie bemanningsregistratie
 - (Wordt steeds verder uitgebreid)
 
 ## Nieuwste projecten
 
-- Herbergregistratie
-- Ruimtemissie bemanningsregistratie
 - Fort Ravenstein
 - Handelsschip De Zeewolf
+- Onderzoeksbasis Antarctica
 
 ## Waarom deze repository?
 
