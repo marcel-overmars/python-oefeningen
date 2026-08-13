@@ -57,14 +57,15 @@ Mijn doel is om stap voor stap een betere programmeur te worden. Ik werk alle ho
 - Fitnesscentrum ledencontrole
 - Pretpark veiligheidsinspectie
 - Festival toegangs en voorraadcontrole
+- Avonturiersprofiel
 - (Wordt steeds verder uitgebreid)
 
 ## Nieuwste projecten
 
-- Avonturiersprofiel
 - Herbergregistratie
 - Ruimtemissie bemanningsregistratie
 - Fort Ravenstein
+- Handelsschip De Zeewolf
 
 ## Waarom deze repository?
 
