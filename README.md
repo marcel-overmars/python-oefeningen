@@ -60,13 +60,14 @@ Mijn doel is om stap voor stap een betere programmeur te worden. Ik werk alle ho
 - Avonturiersprofiel
 - Herbergregistratie
 - Ruimtemissie bemanningsregistratie
+- Fort Ravenstein
 - (Wordt steeds verder uitgebreid)
 
 ## Nieuwste projecten
 
-- Fort Ravenstein
 - Handelsschip De Zeewolf
 - Onderzoeksbasis Antarctica
+- Middeleeuwse handelsstad
 
 ## Waarom deze repository?
 
