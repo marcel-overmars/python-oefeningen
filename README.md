@@ -61,13 +61,14 @@ Mijn doel is om stap voor stap een betere programmeur te worden. Ik werk alle ho
 - Herbergregistratie
 - Ruimtemissie bemanningsregistratie
 - Fort Ravenstein
+- Handelsschip De Zeewolf
 - (Wordt steeds verder uitgebreid)
 
 ## Nieuwste projecten
 
-- Handelsschip De Zeewolf
 - Onderzoeksbasis Antarctica
 - Middeleeuwse handelsstad
+- Hotel Nachtzicht
 
 ## Waarom deze repository?
 
