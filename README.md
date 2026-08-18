@@ -62,13 +62,14 @@ Mijn doel is om stap voor stap een betere programmeur te worden. Ik werk alle ho
 - Ruimtemissie bemanningsregistratie
 - Fort Ravenstein
 - Handelsschip De Zeewolf
+- Onderzoeksbasis Antarctica
 - (Wordt steeds verder uitgebreid)
 
 ## Nieuwste projecten
 
-- Onderzoeksbasis Antarctica
 - Middeleeuwse handelsstad
 - Hotel Nachtzicht
+- Koninklijke wapenkamer
 
 ## Waarom deze repository?
 
