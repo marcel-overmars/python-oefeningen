@@ -64,13 +64,14 @@ Mijn doel is om stap voor stap een betere programmeur te worden. Ik werk alle ho
 - Handelsschip De Zeewolf
 - Onderzoeksbasis Antarctica
 - Middeleeuwse handelsstad
+- Hotel Nachtzicht
 - (Wordt steeds verder uitgebreid)
 
 ## Nieuwste projecten
 
-- Hotel Nachtzicht
 - Koninklijke wapenkamer
 - Ruimtestation Orion
+- Dierenkliniek
 
 ## Waarom deze repository?
 
