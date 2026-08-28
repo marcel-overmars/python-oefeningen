@@ -65,13 +65,14 @@ Mijn doel is om stap voor stap een betere programmeur te worden. Ik werk alle ho
 - Onderzoeksbasis Antarctica
 - Middeleeuwse handelsstad
 - Hotel Nachtzicht
+- Koninklijke wapenkamer
 - (Wordt steeds verder uitgebreid)
 
 ## Nieuwste projecten
 
-- Koninklijke wapenkamer
 - Ruimtestation Orion
 - Dierenkliniek
+- Handelsstad Ravenburg
 
 ## Waarom deze repository?
 
