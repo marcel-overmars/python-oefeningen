@@ -66,13 +66,14 @@ Mijn doel is om stap voor stap een betere programmeur te worden. Ik werk alle ho
 - Middeleeuwse handelsstad
 - Hotel Nachtzicht
 - Koninklijke wapenkamer
+- Ruimtestation Orion
 - (Wordt steeds verder uitgebreid)
 
 ## Nieuwste projecten
 
-- Ruimtestation Orion
 - Dierenkliniek
 - Handelsstad Ravenburg
+- Team avonturiers
 
 ## Waarom deze repository?
 
