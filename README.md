@@ -67,13 +67,14 @@ Mijn doel is om stap voor stap een betere programmeur te worden. Ik werk alle ho
 - Hotel Nachtzicht
 - Koninklijke wapenkamer
 - Ruimtestation Orion
+- Dierenkliniek
 - (Wordt steeds verder uitgebreid)
 
 ## Nieuwste projecten
 
-- Dierenkliniek
 - Handelsstad Ravenburg
 - Team avonturiers
+- Robotfabriek
 
 ## Waarom deze repository?
 
