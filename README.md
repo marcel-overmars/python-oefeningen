@@ -69,13 +69,14 @@ Mijn doel is om stap voor stap een betere programmeur te worden. Ik werk alle ho
 - Ruimtestation Orion
 - Dierenkliniek
 - Handelsstad Ravenburg
+- Team avonturiers
 - (Wordt steeds verder uitgebreid)
 
 ## Nieuwste projecten
 
-- Team avonturiers
 - Robotfabriek
 - Magische golemfabriek
+- Middeleeuwse herberg
 
 ## Waarom deze repository?
 
