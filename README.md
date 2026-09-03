@@ -70,13 +70,14 @@ Mijn doel is om stap voor stap een betere programmeur te worden. Ik werk alle ho
 - Dierenkliniek
 - Handelsstad Ravenburg
 - Team avonturiers
+- Robotfabriek
 - (Wordt steeds verder uitgebreid)
 
 ## Nieuwste projecten
 
-- Robotfabriek
 - Magische golemfabriek
 - Middeleeuwse herberg
+- Trainingsacademie
 
 ## Waarom deze repository?
 
