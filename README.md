@@ -72,13 +72,14 @@ Mijn doel is om stap voor stap een betere programmeur te worden. Ik werk alle ho
 - Team avonturiers
 - Robotfabriek
 - Magische golemfabriek
+- Middeleeuwse herberg
 - (Wordt steeds verder uitgebreid)
 
 ## Nieuwste projecten
 
-- Middeleeuwse herberg
 - Trainingsacademie
 - Koninklijke expeditiegilde
+- Camping De Veluwepoort
 
 ## Waarom deze repository?
 
