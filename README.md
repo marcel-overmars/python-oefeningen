@@ -71,13 +71,14 @@ Mijn doel is om stap voor stap een betere programmeur te worden. Ik werk alle ho
 - Handelsstad Ravenburg
 - Team avonturiers
 - Robotfabriek
+- Magische golemfabriek
 - (Wordt steeds verder uitgebreid)
 
 ## Nieuwste projecten
 
-- Magische golemfabriek
 - Middeleeuwse herberg
 - Trainingsacademie
+- Koninklijke expeditiegilde
 
 ## Waarom deze repository?
 
