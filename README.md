@@ -74,13 +74,14 @@ Mijn doel is om stap voor stap een betere programmeur te worden. Ik werk alle ho
 - Magische golemfabriek
 - Middeleeuwse herberg
 - Trainingsacademie
+- Koninklijke expeditiegilde
 - (Wordt steeds verder uitgebreid)
 
 ## Nieuwste projecten
 
-- Koninklijke expeditiegilde
 - Camping De Veluwepoort
 - Pretpark dagactie
+- Ruimtemissie controlecentrum
 
 ## Waarom deze repository?
 
