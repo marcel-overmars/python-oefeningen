@@ -76,13 +76,14 @@ Mijn doel is om stap voor stap een betere programmeur te worden. Ik werk alle ho
 - Trainingsacademie
 - Koninklijke expeditiegilde
 - Camping De Veluwepoort
+- Pretpark dagactie
 - (Wordt steeds verder uitgebreid)
 
 ## Nieuwste projecten
 
-- Pretpark dagactie
 - Ruimtemissie controlecentrum
 - Middeleeuws trainingskamp
+- Dierenasiel dagbeheer
 
 ## Waarom deze repository?
 
