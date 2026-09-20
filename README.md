@@ -77,13 +77,14 @@ Mijn doel is om stap voor stap een betere programmeur te worden. Ik werk alle ho
 - Koninklijke expeditiegilde
 - Camping De Veluwepoort
 - Pretpark dagactie
+- Ruimtemissie controlecentrum
 - (Wordt steeds verder uitgebreid)
 
 ## Nieuwste projecten
 
-- Ruimtemissie controlecentrum
 - Middeleeuws trainingskamp
 - Dierenasiel dagbeheer
+- Gamewinkel voorraadbeheer
 
 ## Waarom deze repository?
 
