@@ -78,13 +78,14 @@ Mijn doel is om stap voor stap een betere programmeur te worden. Ik werk alle ho
 - Camping De Veluwepoort
 - Pretpark dagactie
 - Ruimtemissie controlecentrum
+- Middeleeuws trainingskamp
 - (Wordt steeds verder uitgebreid)
 
 ## Nieuwste projecten
 
-- Middeleeuws trainingskamp
 - Dierenasiel dagbeheer
 - Gamewinkel voorraadbeheer
+- Pakketbezorgcentrum
 
 ## Waarom deze repository?
 
