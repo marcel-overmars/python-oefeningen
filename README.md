@@ -79,13 +79,14 @@ Mijn doel is om stap voor stap een betere programmeur te worden. Ik werk alle ho
 - Pretpark dagactie
 - Ruimtemissie controlecentrum
 - Middeleeuws trainingskamp
+- Dierenasiel dagbeheer
 - (Wordt steeds verder uitgebreid)
 
 ## Nieuwste projecten
 
-- Dierenasiel dagbeheer
 - Gamewinkel voorraadbeheer
 - Pakketbezorgcentrum
+- Middeleeuws handelskaravaan
 
 ## Waarom deze repository?
 
