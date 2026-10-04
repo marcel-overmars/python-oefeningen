@@ -81,13 +81,14 @@ Mijn doel is om stap voor stap een betere programmeur te worden. Ik werk alle ho
 - Middeleeuws trainingskamp
 - Dierenasiel dagbeheer
 - Gamewinkel voorraadbeheer
+- Pakketbezorgcentrum
 - (Wordt steeds verder uitgebreid)
 
 ## Nieuwste projecten
 
-- Pakketbezorgcentrum
 - Middeleeuws handelskaravaan
 - Gamewinkel voorraadcontrole
+- Ruimtekolonie
 
 ## Waarom deze repository?
 
