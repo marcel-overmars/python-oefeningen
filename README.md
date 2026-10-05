@@ -83,13 +83,14 @@ Mijn doel is om stap voor stap een betere programmeur te worden. Ik werk alle ho
 - Gamewinkel voorraadbeheer
 - Pakketbezorgcentrum
 - Middeleeuws handelskaravaan
+- Gamewinkel voorraadcontrole
 - (Wordt steeds verder uitgebreid)
 
 ## Nieuwste projecten
 
-- Gamewinkel voorraadcontrole
 - Ruimtekolonie
 - Pretpark controlecentrum
+- Fantasy arena
 
 ## Waarom deze repository?
 
