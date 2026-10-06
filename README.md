@@ -84,13 +84,14 @@ Mijn doel is om stap voor stap een betere programmeur te worden. Ik werk alle ho
 - Pakketbezorgcentrum
 - Middeleeuws handelskaravaan
 - Gamewinkel voorraadcontrole
+- Ruimtekolonie
 - (Wordt steeds verder uitgebreid)
 
 ## Nieuwste projecten
 
-- Ruimtekolonie
 - Pretpark controlecentrum
 - Fantasy arena
+- Ruimtestation
 
 ## Waarom deze repository?
 
