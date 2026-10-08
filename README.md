@@ -85,13 +85,14 @@ Mijn doel is om stap voor stap een betere programmeur te worden. Ik werk alle ho
 - Middeleeuws handelskaravaan
 - Gamewinkel voorraadcontrole
 - Ruimtekolonie
+- Pretpark controlecentrum
 - (Wordt steeds verder uitgebreid)
 
 ## Nieuwste projecten
 
-- Pretpark controlecentrum
 - Fantasy arena
 - Ruimtestation
+- Blacksmith
 
 ## Waarom deze repository?
 
