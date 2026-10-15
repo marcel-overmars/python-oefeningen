@@ -86,13 +86,14 @@ Mijn doel is om stap voor stap een betere programmeur te worden. Ik werk alle ho
 - Gamewinkel voorraadcontrole
 - Ruimtekolonie
 - Pretpark controlecentrum
+- Fantasy arena
 - (Wordt steeds verder uitgebreid)
 
 ## Nieuwste projecten
 
-- Fantasy arena
 - Ruimtestation
 - Blacksmith
+- Trading post
 
 ## Waarom deze repository?
 
