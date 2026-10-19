@@ -87,13 +87,14 @@ Mijn doel is om stap voor stap een betere programmeur te worden. Ik werk alle ho
 - Ruimtekolonie
 - Pretpark controlecentrum
 - Fantasy arena
+- Ruimtestation
 - (Wordt steeds verder uitgebreid)
 
 ## Nieuwste projecten
 
-- Ruimtestation
 - Blacksmith
 - Trading post
+- Animal care centre
 
 ## Waarom deze repository?
 
