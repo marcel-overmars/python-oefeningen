@@ -88,13 +88,14 @@ Mijn doel is om stap voor stap een betere programmeur te worden. Ik werk alle ho
 - Pretpark controlecentrum
 - Fantasy arena
 - Ruimtestation
+- blacksmith
 - (Wordt steeds verder uitgebreid)
 
 ## Nieuwste projecten
 
-- Blacksmith
 - Trading post
 - Animal care centre
+- Robot factory
 
 ## Waarom deze repository?
 
